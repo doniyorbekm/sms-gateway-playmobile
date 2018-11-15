@@ -22,7 +22,7 @@ class Message {
                     'sms'        => [
                         'originator' => '3700',
                         'content'    => [
-                            'text' => 'Nano Wi-Fi code: '.$code,
+                            'text' => 'Your code is: '.$code,
                         ]
                     ]
                 ],
